@@ -1,0 +1,5 @@
+# Ignore notes file
+notes.txt
+
+# Ignore exe files
+Basics/*.exe
