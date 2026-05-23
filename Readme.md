@@ -20,6 +20,14 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔️ Conditional Statements  
 ✔️ Loops  
 
+### Functions
+✔️ Basic Functions  
+✔️ Function Parameters  
+✔️ Return Types  
+✔️ Default Arguments  
+✔️ Function Overloading  
+✔️ Recursion Basics  
+
 ---
 
 ## Repository Structure
@@ -35,20 +43,48 @@ Basics/
 ├── 06_if_elseIf_else.cpp
 ├── 07_switch.cpp
 └── 08_loops.cpp
+
+
+Functions/
+│
+├── 01_functions.cpp
+├── 02_function_parameter.cpp
+├── 03_return_type.cpp
+├── 04_default_argument.cpp
+├── 05_function_overloading.cpp
+└── 06_recursion.cpp
 ```
+
+---
+
+## Concepts Learned So Far
+
+### Basics
+- Variables and data types
+- User input/output
+- Operators
+- Conditional statements
+- Loops
+
+### Functions
+- Function declaration and definition
+- Parameters and arguments
+- Return types
+- Default arguments
+- Function overloading
+- Recursion fundamentals
 
 ---
 
 ## Upcoming Topics
 
-- Functions
 - Arrays
 - Strings
 - Pointers
-- Recursion
 - OOP Concepts
 - STL
 - File Handling
+- Exception Handling
 
 ---
 
