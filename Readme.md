@@ -28,6 +28,12 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔️ Function Overloading  
 ✔️ Recursion Basics  
 
+### Arrays
+✔️ Array Declaration  
+✔️ Array Traversal Using Loops  
+✔️ 2D Arrays  
+✔️ Array Size Calculation  
+
 ---
 
 ## Repository Structure
@@ -53,6 +59,14 @@ Functions/
 ├── 04_default_argument.cpp
 ├── 05_function_overloading.cpp
 └── 06_recursion.cpp
+
+
+Arrays/
+│
+├── 01_array.cpp
+├── 02_arrayWithLoop.cpp
+├── 03_2Darray.cpp
+└── 04_array_size.cpp
 ```
 
 ---
@@ -74,6 +88,12 @@ Functions/
 - Function overloading
 - Recursion fundamentals
 
+### Arrays
+- Array declaration
+- Traversing arrays using loops
+- Multidimensional arrays (2D arrays)
+- Finding array size using sizeof()
+
 ---
 
 ## Upcoming Topics
@@ -83,8 +103,6 @@ Functions/
 - Pointers
 - OOP Concepts
 - STL
-- File Handling
-- Exception Handling
 
 ---
 
