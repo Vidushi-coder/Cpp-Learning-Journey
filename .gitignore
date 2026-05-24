@@ -4,3 +4,4 @@ notes.txt
 # Ignore exe files
 Basics/*.exe
 Functions/*.exe
+Arrays/*.exe
