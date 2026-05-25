@@ -32,7 +32,10 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔️ Array Declaration  
 ✔️ Array Traversal Using Loops  
 ✔️ 2D Arrays  
-✔️ Array Size Calculation  
+✔️ Array Size Calculation 
+✔️ 3D Arrays
+✔️ Array Functions
+✔️ Functions of numeric library 
 
 ---
 
@@ -66,7 +69,13 @@ Arrays/
 ├── 01_array.cpp
 ├── 02_arrayWithLoop.cpp
 ├── 03_2Darray.cpp
-└── 04_array_size.cpp
+├── 04_array_size.cpp
+├── 05_3Darray.cpp
+├── 06_array_function.cpp
+├── 07_2Darray_function.cpp
+└── 08_numeric_library_functions.cpp
+
+
 ```
 
 ---
@@ -93,12 +102,15 @@ Arrays/
 - Traversing arrays using loops
 - Multidimensional arrays (2D arrays)
 - Finding array size using sizeof()
+- Multidimensional arrays (3D arrays)
+- Array Functions
+- 2D Array Functions
+- Functions of numeric library
 
 ---
 
 ## Upcoming Topics
 
-- Arrays
 - Strings
 - Pointers
 - OOP Concepts
