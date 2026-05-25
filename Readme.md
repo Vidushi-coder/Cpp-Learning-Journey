@@ -15,10 +15,6 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔ Basics  
 ✔ Functions  
 ✔ Arrays  
-⬜ Strings  
-⬜ Pointers  
-⬜ OOP Concepts  
-⬜ STL  
 
 ---
 
@@ -28,7 +24,6 @@ This repository documents my C++ learning progress while strengthening programmi
 Basics/
 Functions/
 Arrays/
-
 ```
 
 Detailed files inside each folder.
