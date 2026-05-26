@@ -15,6 +15,7 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔ Basics  
 ✔ Functions  
 ✔ Arrays  
+✔ Strings  
 
 ---
 
@@ -24,6 +25,7 @@ This repository documents my C++ learning progress while strengthening programmi
 Basics/
 Functions/
 Arrays/
+Strings/
 ```
 
 Detailed files inside each folder.
@@ -51,6 +53,12 @@ Detailed files inside each folder.
 - Array traversal
 - Array functions
 - Numeric library functions
+
+### Strings
+- Declaration
+- User Input
+- String length
+- Sub string
 
 ---
 
