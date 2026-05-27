@@ -58,7 +58,8 @@ Detailed files inside each folder.
 - Declaration
 - User Input
 - String length
-- Sub string
+- Sub String
+- String Functions
 
 ---
 
