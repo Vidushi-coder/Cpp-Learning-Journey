@@ -58,14 +58,15 @@ Detailed files inside each folder.
 - Declaration
 - User Input
 - String length
-- Sub String
+- String Traversal
 - String Functions
+- String Comparision
+- Palindrome
 
 ---
 
 ## Upcoming Topics
 
-- Strings
 - Pointers
 - OOP
 - STL
