@@ -16,6 +16,7 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔ Functions  
 ✔ Arrays  
 ✔ Strings  
+✔ Pointers  
 
 ---
 
@@ -26,6 +27,7 @@ Basics/
 Functions/
 Arrays/
 Strings/
+Pointers/
 ```
 
 Detailed files inside each folder.
@@ -62,6 +64,12 @@ Detailed files inside each folder.
 - String Functions
 - String Comparision
 - Palindrome
+
+### Pointers
+- Address Operator
+- Dereference Operator
+- Arrays with Pointers
+- Pointer to Pointer
 
 ---
 
