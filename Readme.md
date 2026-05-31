@@ -62,8 +62,6 @@ Detailed files inside each folder.
 - String length
 - String Traversal
 - String Functions
-- String Comparision
-- Palindrome
 
 ### Pointers
 - Address Operator
