@@ -1,23 +1,25 @@
 # C++ Learning Journey 🚀
 
-This repository documents my C++ learning progress while strengthening programming fundamentals and preparing for placements.
+This repository documents my C++ learning journey while strengthening programming fundamentals, preparing for Data Structures & Algorithms (DSA), and getting ready for technical placements.
 
-### Goals
-- Learn C++ systematically
-- Build strong programming foundations
-- Prepare for placements and DSA
-- Track consistency and growth over time
+## Goals
+
+* Learn C++ systematically
+* Build strong programming fundamentals
+* Develop problem-solving skills for DSA
+* Prepare for technical interviews and placements
+* Track learning consistency and growth over time
 
 ---
 
 ## Learning Progress
 
-✔ Basics  
-✔ Functions  
-✔ Arrays  
-✔ Strings  
-✔ Pointers 
-✔ OOPS
+✔ Basics
+✔ Functions
+✔ Arrays
+✔ Strings
+✔ Pointers
+✔ OOP Concepts
 
 ---
 
@@ -32,59 +34,72 @@ Pointers/
 OOPS/
 ```
 
-Detailed files inside each folder.
+Detailed implementations and examples are organized inside each folder.
 
 ---
 
 ## Concepts Covered
 
 ### Basics
-- Data types
-- Input/output
-- Operators
-- Conditions
-- Loops
+
+* Variables and Data Types
+* Input and Output
+* Operators
+* Conditional Statements
+* Loops
 
 ### Functions
-- Parameters
-- Return types
-- Recursion
-- Overloading
+
+* Function Declaration and Definition
+* Parameters and Arguments
+* Return Types
+* Function Overloading
+* Recursion
 
 ### Arrays
-- 1D arrays
-- 2D & 3D arrays
-- Array traversal
-- Array functions
-- Numeric library functions
+
+* One-Dimensional Arrays
+* Two-Dimensional Arrays
+* Three-Dimensional Arrays
+* Array Traversal
+* Array Utility Functions
+* Numeric Library Functions
 
 ### Strings
-- Declaration
-- User Input
-- String length
-- String Traversal
-- String Functions
+
+* String Declaration
+* User Input
+* String Traversal
+* String Length
+* String Comparison
+* Find and Replace Operations
+* Palindrome Checking
+* Common String Functions
 
 ### Pointers
-- Address Operator
-- Dereference Operator
-- Arrays with Pointers
-- Pointer to Pointer
-- Null pointers
-- Pass by reference
-- Pointer arithmetic
 
-### OOPS
-- Classes and Objects
-- Getter and Setter method
-- Encapsulation 
+* Address Operator (&)
+* Dereference Operator (*)
+* Arrays and Pointers
+* Pointer to Pointer
+* Null Pointer
+* Pass by Reference
+* Pointer Arithmetic
+
+### OOP Concepts
+
+* Classes and Objects
+* Constructors
+* Copy Constructors
+* Getter and Setter Methods
+* Encapsulation
+* Inheritance
 
 ---
 
 ## Upcoming Topics
 
-- OOPS
-- STL
+* STL (Standard Template Library)
 
 ---
 
@@ -92,10 +107,11 @@ Detailed files inside each folder.
 
 This repository serves as:
 
-- Revision notes
-- Placement preparation
-- Learning documentation
-- Programming practice
+* Revision notes for C++
+* Documentation of learning progress
+* Placement preparation resource
+* Practice repository for programming fundamentals
+* Reference material for future DSA learning
 
 ---
 
