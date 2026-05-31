@@ -16,7 +16,8 @@ This repository documents my C++ learning progress while strengthening programmi
 ✔ Functions  
 ✔ Arrays  
 ✔ Strings  
-✔ Pointers  
+✔ Pointers 
+✔ OOPS
 
 ---
 
@@ -28,6 +29,7 @@ Functions/
 Arrays/
 Strings/
 Pointers/
+OOPS/
 ```
 
 Detailed files inside each folder.
@@ -72,11 +74,16 @@ Detailed files inside each folder.
 - Pass by reference
 - Pointer arithmetic
 
+### OOPS
+- Classes and Objects
+- Getter and Setter method
+- Encapsulation 
+
 ---
 
 ## Upcoming Topics
 
-- OOP
+- OOPS
 - STL
 
 ---
