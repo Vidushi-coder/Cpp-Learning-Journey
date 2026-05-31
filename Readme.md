@@ -13,10 +13,15 @@ This repository documents my C++ learning progress while strengthening programmi
 ## Learning Progress
 
 ✔ Basics  
+
 ✔ Functions  
+
 ✔ Arrays  
+
 ✔ Strings  
+
 ✔ Pointers 
+
 ✔ OOPS
 
 ---
