@@ -70,12 +70,14 @@ Detailed files inside each folder.
 - Dereference Operator
 - Arrays with Pointers
 - Pointer to Pointer
+- Null pointers
+- Pass by reference
+- Pointer arithmetic
 
 ---
 
 ## Upcoming Topics
 
-- Pointers
 - OOP
 - STL
 
