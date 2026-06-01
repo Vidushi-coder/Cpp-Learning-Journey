@@ -91,8 +91,6 @@ Detailed implementations and examples are organized inside each folder.
 * Classes and Objects
 * Getter and Setter Methods
 * Encapsulation
-* Encapsulation
-* Encapsulation
 * Constructors and Destructors
 * Inheritance
 
