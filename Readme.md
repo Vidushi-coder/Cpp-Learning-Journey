@@ -20,7 +20,6 @@ This repository documents my C++ learning journey while strengthening programmin
 -  Strings
 -  Pointers
 -  OOP Concepts
--  STL
 
 ---
 
@@ -90,16 +89,18 @@ Detailed implementations and examples are organized inside each folder.
 ### OOP Concepts
 
 * Classes and Objects
-* Constructors
-* Copy Constructors
 * Getter and Setter Methods
 * Encapsulation
+* Encapsulation
+* Encapsulation
+* Constructors and Destructors
 * Inheritance
 
 ---
 
 ## Upcoming Topics
 
+* OOPS
 * STL (Standard Template Library)
 
 ---
