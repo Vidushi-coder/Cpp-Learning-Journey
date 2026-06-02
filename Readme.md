@@ -92,7 +92,7 @@ Detailed implementations and examples are organized inside each folder.
 * Getter and Setter Methods
 * Encapsulation
 * Constructors and Destructors
-* Inheritance
+* Inheritance and its Types
 
 ---
 
