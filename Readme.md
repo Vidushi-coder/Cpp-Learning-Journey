@@ -14,12 +14,12 @@ This repository documents my C++ learning journey while strengthening programmin
 
 ## Learning Progress
 
--  Basics
--  Functions
--  Arrays
--  Strings
--  Pointers
--  OOP Concepts
+✔ Basics
+✔ Functions
+✔ Arrays
+✔ Strings
+✔ Pointers
+✔ OOP Concepts
 
 ---
 
@@ -42,63 +42,53 @@ Detailed implementations and examples are organized inside each folder.
 
 ### Basics
 
-* Variables and Data Types
-* Input and Output
+* Data Types
+* Input/Output
 * Operators
 * Conditional Statements
 * Loops
 
 ### Functions
 
-* Function Declaration and Definition
-* Parameters and Arguments
-* Return Types
+* Parameters and Return Types
 * Function Overloading
 * Recursion
 
 ### Arrays
 
-* One-Dimensional Arrays
-* Two-Dimensional Arrays
-* Three-Dimensional Arrays
-* Array Traversal
-* Array Utility Functions
+* 1D, 2D and 3D Arrays
+* Array Traversal and Operations
 * Numeric Library Functions
 
 ### Strings
 
-* String Declaration
-* User Input
-* String Traversal
-* String Length
+* String Manipulation
+* String Functions
 * String Comparison
-* Find and Replace Operations
+* Find & Replace
 * Palindrome Checking
-* Common String Functions
 
 ### Pointers
 
-* Address Operator (&)
-* Dereference Operator (*)
+* Address and Dereference Operators
 * Arrays and Pointers
-* Pointer to Pointer
-* Null Pointer
-* Pass by Reference
 * Pointer Arithmetic
+* Pointer to Pointer
+* Null Pointers
+* Pass by Reference
 
 ### OOP Concepts
 
 * Classes and Objects
-* Getter and Setter Methods
 * Encapsulation
 * Constructors and Destructors
-* Inheritance and its Types
+* Inheritance
+* Polymorphism
 
 ---
 
 ## Upcoming Topics
 
-* OOPS
 * STL (Standard Template Library)
 
 ---
