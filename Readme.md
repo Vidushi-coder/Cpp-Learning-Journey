@@ -19,7 +19,8 @@ This repository documents my C++ learning journey while strengthening programmin
 ✔ Arrays  
 ✔ Strings  
 ✔ Pointers  
-✔ OOP Concepts  
+✔ OOPS Concepts   
+✔ STL  
 
 ---
 
@@ -32,6 +33,7 @@ Arrays/
 Strings/
 Pointers/
 OOPS/
+STL/
 ```
 
 Detailed implementations and examples are organized inside each folder.
@@ -84,6 +86,11 @@ Detailed implementations and examples are organized inside each folder.
 * Constructors and Destructors
 * Inheritance
 * Polymorphism
+
+### STL
+
+* Vectors
+* List
 
 ---
 
