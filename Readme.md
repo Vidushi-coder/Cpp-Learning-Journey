@@ -79,7 +79,7 @@ Detailed implementations and examples are organized inside each folder.
 * Null Pointers
 * Pass by Reference
 
-### OOP Concepts
+### OOPS Concepts
 
 * Classes and Objects
 * Encapsulation
@@ -87,7 +87,7 @@ Detailed implementations and examples are organized inside each folder.
 * Inheritance
 * Polymorphism
 
-### STL
+### STL (Standard Template Library)
 
 * Vectors
 * List
