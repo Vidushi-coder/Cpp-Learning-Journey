@@ -91,6 +91,9 @@ Detailed implementations and examples are organized inside each folder.
 
 * Vectors
 * List
+* Deque
+* Pair
+* Stack
 
 ---
 
