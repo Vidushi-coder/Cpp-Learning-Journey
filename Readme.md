@@ -94,6 +94,8 @@ Detailed implementations and examples are organized inside each folder.
 * Deque
 * Pair
 * Stack
+* Queue
+* Map
 
 ---
 
