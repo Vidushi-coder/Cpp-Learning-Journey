@@ -45,56 +45,69 @@ Detailed implementations and examples are organized inside each folder.
 ### Basics
 
 * Data Types
-* Input/Output
+* User Input and Output
 * Operators
 * Conditional Statements
 * Loops
 
 ### Functions
 
+* Function Declaration and Definition
 * Parameters and Return Types
+* Default Arguments
 * Function Overloading
 * Recursion
 
 ### Arrays
 
-* 1D, 2D and 3D Arrays
-* Array Traversal and Operations
+* One-Dimensional Arrays
+* Two-Dimensional Arrays
+* Three-Dimensional Arrays
+* Array Traversal
+* Array Operations and Utility Functions
 * Numeric Library Functions
 
 ### Strings
 
-* String Manipulation
-* String Functions
+* String Declaration and Input
+* String Length and Substrings
+* Concatenation
+* String Traversal
+* String Reversal and Sorting
 * String Comparison
-* Find & Replace
+* Find and Replace Operations
 * Palindrome Checking
 
 ### Pointers
 
 * Address and Dereference Operators
 * Arrays and Pointers
-* Pointer Arithmetic
 * Pointer to Pointer
 * Null Pointers
 * Pass by Reference
+* Pointer Arithmetic
 
-### OOPS Concepts
+### OOP Concepts
 
 * Classes and Objects
+* Getter and Setter Methods
 * Encapsulation
 * Constructors and Destructors
 * Inheritance
-* Polymorphism
+* Function Overriding
+* Virtual Functions
+* Abstract Classes
+* Static Members
 
 ### STL (Standard Template Library)
 
-* Vectors
+* Vectors and Iterators
 * List
 * Deque
 * Pair
 * Stack
 * Queue
+* Priority Queue
 * Map
 
 ---
