@@ -108,7 +108,8 @@ Detailed implementations and examples are organized inside each folder.
 * Stack
 * Queue
 * Priority Queue
-* Map
+* Map and its Types
+* Set
 
 ---
 
