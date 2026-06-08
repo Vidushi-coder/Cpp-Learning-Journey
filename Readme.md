@@ -19,7 +19,7 @@ This repository documents my C++ learning journey while strengthening programmin
 ✔ Arrays  
 ✔ Strings  
 ✔ Pointers  
-✔ OOPS Concepts   
+✔ OOP Concepts   
 ✔ STL  
 
 ---
@@ -108,14 +108,8 @@ Detailed implementations and examples are organized inside each folder.
 * Stack
 * Queue
 * Priority Queue
-* Map and its Types
-* Set
-
----
-
-## Upcoming Topics
-
-* STL (Standard Template Library)
+* Maps (Map, Multimap, Unordered Map)
+* Sets
 
 ---
 
